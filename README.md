@@ -10,3 +10,4 @@ Kullanım Şekli: cd  Klasör_Adı
 ```
 cd belgelerim
 ```
+![cd](https://github.com/user-attachments/assets/dae98637-1ea0-40ed-9eca-3a6cd3d554da)
