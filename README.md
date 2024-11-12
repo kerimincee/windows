@@ -34,3 +34,11 @@ copy NUL yeni
 ![copy](https://github.com/user-attachments/assets/ff094d58-b310-4bf0-b7d9-1dadddb68328)
 >[!NOTE]
 >Belge oluşturmak için bir kod bulunmadığı için <ins>copy</ins> komudu kullanılır.
+
+#### MOVE Komutu
+Bu komut belgenin veya klasörün adını değiştirmeye yarar.
+>Kullanım şekli : move dosyaadı yenidosyaadı
+```
+move yeniisim isimdeğişme
+```
+![move](https://github.com/user-attachments/assets/41f88e07-8ee3-4311-9cb8-ee9d4fbc104c)
