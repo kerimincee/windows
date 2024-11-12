@@ -24,3 +24,13 @@ mkdir windows_komutları
 
 >[!TIP]
 >CD ile dosyaya girerken <ins>Tab</ins> tuşu ile son kaydedilen belge adını anında yazabilirsiniz.
+
+#### COPY Komutu
+Bu komut kopyalama komutu olarak geçer bir belgeyi kopyalamaya yarar.
+>Kullanım Şekli : copy NUL dosyaadı
+```
+copy NUL yeni
+```
+![copy](https://github.com/user-attachments/assets/ff094d58-b310-4bf0-b7d9-1dadddb68328)
+>[!NOTE]
+>Belge oluşturmak için bir kod bulunmadığı için <ins>copy</ins> komudu kullanılır.
