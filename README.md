@@ -20,4 +20,5 @@ mkdir windows_komutları
 ```
 >[!TIP]
 >CD ile dosyaya girerken <ins>Tab</ins> tuşu ile son kaydedilen belge adını anında yazabilirsiniz.
+
 ![mkdir](https://github.com/user-attachments/assets/3f7f00d4-7e59-4b74-8bdb-91d13ecbf8aa)
