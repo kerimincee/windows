@@ -53,3 +53,5 @@ echo "merhaba dünya" > Kişiler
 >[!TIP]
 >İşlem çıktısı aşağıdaki gibidir.
 >![çıktı](https://github.com/user-attachments/assets/5bd29902-525a-4f3d-bd39-baf2f5181060)
+
+
