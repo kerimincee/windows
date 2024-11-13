@@ -42,3 +42,14 @@ Bu komut belgenin veya klasörün adını değiştirmeye yarar.
 move yeniisim isimdeğişme
 ```
 ![move](https://github.com/user-attachments/assets/41f88e07-8ee3-4311-9cb8-ee9d4fbc104c)
+
+#### ECHO Komutu
+Bu komut belgenin içerisine yazı yazmaya yarar.
+>Kullanım Şekli : echo yazı > dosyaadı
+```
+echo "merhaba dünya" > Kişiler
+```
+![echo](https://github.com/user-attachments/assets/a18c7657-021d-4cd9-b936-0a95e14306f6)
+[!TIP]
+>İşlem çıktısı aşağıdaki gibidir.
+>![çıktı](https://github.com/user-attachments/assets/5bd29902-525a-4f3d-bd39-baf2f5181060)
