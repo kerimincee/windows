@@ -73,3 +73,46 @@ find "Merhaba" kişiler.txt
 >[!IMPORTANT]
 >Burda aranacak metin bire bir aynı olmalıdır büyük küçük harfe dikkat edilmelidir.
 
+## Sistem Komutları
+
+#### DRİVERQUERY Komutu
+Bu komut bilgisayarınızda yüklü sürücüleri listelemeye yarar.<br>
+>Kullanım şekli : driverquery
+```
+driverquery
+```
+![driverquery](https://github.com/user-attachments/assets/220fdec8-19d8-49f2-9d6b-64d282262e27)
+
+#### TASKLIST Komutu
+Bu komut çalışan işlemleri listeler.<br>
+>Kullanım Şekli : tasklist
+```
+tasklist
+```
+![tasklist](https://github.com/user-attachments/assets/3bb264be-89b3-4560-bafa-3a1c20a16752)
+
+#### DATE Komutu
+Bu komut bilgisayarınızın tarihini değiştirir.<br>
+>Kullanım Şekli : date
+```
+date
+```
+>[!TIP]
+>```
+>date /T
+>```
+>Kodu ile mevcut tarihi görebilirsiniz.
+
+![date](https://github.com/user-attachments/assets/9143eee5-7301-4326-adb2-e41b1c8e8927)
+>[!IMPORTANT]
+>Bu başlık altındaki komutlar yönetici yetkilerine ihtiyaç duyar.
+>Bu nedenle uygulamadan önce komut istemini yönetici olarak başlatmanız gerekiyor.
+>Aksi takdirde erişim engellendi hatası alacaksınız.
+
+
+
+
+
+
+
+
