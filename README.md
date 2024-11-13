@@ -50,6 +50,6 @@ Bu komut belgenin içerisine yazı yazmaya yarar.
 echo "merhaba dünya" > Kişiler
 ```
 ![echo](https://github.com/user-attachments/assets/a18c7657-021d-4cd9-b936-0a95e14306f6)
-[!TIP]
+>[!TIP]
 >İşlem çıktısı aşağıdaki gibidir.
 >![çıktı](https://github.com/user-attachments/assets/5bd29902-525a-4f3d-bd39-baf2f5181060)
