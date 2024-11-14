@@ -12,7 +12,7 @@ cd belgelerim
 ```
 ![cd](https://github.com/user-attachments/assets/dae98637-1ea0-40ed-9eca-3a6cd3d554da)
 >[!WARNING]
->Klasör adı yazarken klasörün adını hatasız yazınız büyük harf küçük harf uyumuna dikkat ediniz.
+>Klasör adı yazarken klasörün adını hatasız yazının büyük harf küçük harf uyumuna dikkat ediniz.
 
 #### `DİR` Komutu
 Bu komut cmdnin konumundaki dosyanın içerisinde bulunan şeyleri listeler.<br>
